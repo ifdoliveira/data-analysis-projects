@@ -1,10 +1,3 @@
-# data-analysis-projects
-
-Repositório com dashboards de análise de dados desenvolvidos no Microsoft Power BI.  
-Repository with data analysis dashboards built in Microsoft Power BI.
-
----
-
 ## 📊 Social Media and Mental Health in Bangladesh
 
 ### 🇧🇷 Português
@@ -47,12 +40,8 @@ The entire process was conducted independently, without tutorials or ready-made 
 #### Insights
 The data reveals that intensive social media use is consistently associated with mental health impacts. Heavy users showed a higher tendency toward social comparison, with direct effects on self-esteem and perceived productivity. Age group analysis indicates that young adults concentrate the highest rates of problematic usage, while platform segmentation points to relevant differences in the type of reported impact. Sleep quality issues and difficulty concentrating appear recurrently among respondents with higher daily usage time, suggesting a relationship between excessive engagement and emotional well-being impairment.
 
-**Tool:** Microsoft Power BI  
+**Tool:** Excel and Microsoft Power BI  
 **Data:** [Kaggle - Social Media and Mental Health](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data)
 
-
----
-
-### 🇺🇸 English
 
 This project was developed as an independent initiative to apply data analysis knowledge in practice, integrating UX Design principles focused
