@@ -1,3 +1,46 @@
+## 🤖 AI Dependency, Career Anxiety and Student Burnout
+
+### 🇧🇷 Português
+
+No meu segundo projeto independente de análise de dados, explorei um dataset sintético com 15.000 registros de estudantes, investigando a relação entre uso de IA, saúde mental e preparação para o mercado de trabalho no ensino superior.
+
+O dataset foi publicado no Kaggle em 2025 e licenciado sob MIT License.
+
+#### Principais indicadores
+- Total de estudantes analisados: 15.000
+- 41% são da área de Ciência/Tecnologia da Computação
+- ~70% residem em áreas urbanas
+- ~70% utilizam ferramentas de IA — com o ChatGPT como a mais adotada
+- 55% temem perder oportunidades de emprego para a IA
+
+#### Insights
+Os dados revelam tensões profundas entre uso tecnológico, saúde mental e perspectivas profissionais. Estudantes com alto nível de burnout apresentam maior ansiedade em processos seletivos, menor motivação e níveis de estresse mais elevados — sugerindo que o esgotamento acadêmico amplifica o impacto da incerteza sobre o futuro profissional. Um padrão relevante emerge na relação entre uso intensivo de IA para realização de tarefas e a percepção de substituição do pensamento independente, levantando questões sobre autonomia acadêmica e desenvolvimento de habilidades a longo prazo. Embora o dataset seja sintético e não deva ser interpretado como evidência sociológica real, os padrões simulados refletem tensões muito presentes no cenário acadêmico atual: estudantes navegando simultaneamente entre dependência tecnológica, incerteza profissional e pressões sobre saúde mental.
+
+**Ferramenta:** Microsoft Power BI  
+**Dados:** [Kaggle - AI Dependency and Student Burnout](https://www.kaggle.com/datasets/sridipbasu/ai-depndency-career-anxiety-and-student-burnout/data)
+
+---
+
+### 🇺🇸 English
+
+In my second independent data analysis project, I explored a synthetic dataset with 15,000 student records, investigating the relationship between AI usage, mental health, and workforce readiness in higher education.
+
+The dataset was published on Kaggle in 2025 and licensed under the MIT License.
+
+#### Key Metrics
+- Total students analyzed: 15,000
+- 41% are from Computer Science/Technology fields
+- ~70% reside in urban areas
+- ~70% use AI tools — with ChatGPT as the most widely adopted
+- 55% fear losing job opportunities to AI
+
+#### Insights
+The data reveals deep tensions between technological reliance, mental health, and professional outlook. Students with high burnout levels show greater anxiety in job interviews and selection processes, lower motivation, and higher stress levels — suggesting that academic exhaustion amplifies the impact of professional uncertainty. A notable pattern emerges in the relationship between heavy AI usage for task completion and the perception that AI is replacing independent thinking, raising important questions about long-term skill development and academic autonomy. Although the dataset is entirely synthetic and should not be interpreted as real sociological evidence, the simulated behavioral patterns reflect tensions very present in today's academic and professional landscape: students navigating technological dependence, professional uncertainty, and mental health pressures all at once.
+
+**Tool:** Microsoft Power BI  
+**Data:** [Kaggle - AI Dependency and Student Burnout](https://www.kaggle.com/datasets/sridipbasu/ai-depndency-career-anxiety-and-student-burnout/data)
+
+
 ## 📊 Social Media and Mental Health in Bangladesh
 
 ### 🇧🇷 Português
