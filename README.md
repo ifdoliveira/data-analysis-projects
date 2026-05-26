@@ -11,7 +11,7 @@ Repository with data analysis dashboards built in Microsoft Power BI.
 
 Este projeto foi desenvolvido como uma iniciativa independente para aplicar, na prática, conhecimentos de análise de dados, com integração de princípios de UX Design voltados à visualização e interpretação de informações.
 
-O objetivo foi explorar a relação entre o uso de redes sociais e indicadores de saúde mental, a partir do dataset **"Social Media and Mental Health"**, disponível no Kaggle, composto por 481 respondentes.
+O objetivo foi explorar a relação entre o uso de redes sociais e indicadores de saúde mental, a partir do dataset **"Social Media and Mental Health in Bangladesh"**, disponível no Kaggle, composto por 481 respondentes.
 
 Todo o processo foi conduzido de forma autoral, sem uso de videoaulas ou modelos prontos — desde a escolha e compreensão do dataset, passando pelo tratamento e organização dos dados, definição de KPIs e construção do dashboard, até o refinamento visual com foco em clareza e experiência de leitura.
 
