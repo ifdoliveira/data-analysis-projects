@@ -6,12 +6,12 @@ Para este projeto, explorei dados do Censo da Educação Superior, realizado pel
 
 ### Principais indicadores
 
-📈 Aumento da evasão acadêmica: de 12,60% (2016) para 16,90% (2024)
-📈 Aumento da retenção acadêmica: de 25,60% (2016) para 30,90% (2024)
-📉 Queda na permanência: de 81,60% (2016) para 75,20% (2024)
-📉 Queda na conclusão: de 72,50% (2016) para 68,20% (2024)
-🎓 PPI representam 51,48% das matrículas analisadas
-📊 Quanto maior a faixa etária, maiores as médias de evasão e retenção
+- 📈 Aumento da evasão acadêmica: de 12,60% (2016) para 16,90% (2024)
+- 📈 Aumento da retenção acadêmica: de 25,60% (2016) para 30,90% (2024)
+- 📉 Queda na permanência: de 81,60% (2016) para 75,20% (2024)
+- 📉 Queda na conclusão: de 72,50% (2016) para 68,20% (2024)
+- 🎓 PPI representam 51,48% das matrículas analisadas
+- 📊 Quanto maior a faixa etária, maiores as médias de evasão e retenção
 
 #### Insights
 
@@ -29,12 +29,12 @@ As a public administrator, I couldn't leave relevant topics from the Brazilian r
 
 ### Key Indicators
 
-📈 Dropout rate increased from 12.60% (2016) to 16.90% (2024)
-📈 Retention rate increased from 25.60% (2016) to 30.90% (2024)
-📉 Persistence rate declined from 81.60% (2016) to 75.20% (2024)
-📉 Completion rate declined from 72.50% (2016) to 68.20% (2024)
-🎓 PPI students account for 51.48% of the analyzed enrollments
-📊 Higher age groups consistently show higher dropout and retention rates
+- 📈 Dropout rate increased from 12.60% (2016) to 16.90% (2024)
+- 📈 Retention rate increased from 25.60% (2016) to 30.90% (2024)
+- 📉 Persistence rate declined from 81.60% (2016) to 75.20% (2024)
+- 📉 Completion rate declined from 72.50% (2016) to 68.20% (2024)
+- 🎓 PPI students account for 51.48% of the analyzed enrollments
+- 📊 Higher age groups consistently show higher dropout and retention rates
 
 #### Insights
 
