@@ -1,3 +1,156 @@
+# 📁 App BiT — Análise de Dados para Matching Inclusivo e Indicadores ESG
+
+🇧🇷 Português
+
+Este projeto foi desenvolvido durante um hackathon com o objetivo de criar uma plataforma de matching inclusivo para conectar empresas a talentos de grupos sub-representados.
+
+Minha atuação foi voltada à análise de dados, explorando informações de perfil socioeconômico, distribuição geográfica, mobilidade e conectividade dos usuários para gerar insights estratégicos de recrutamento inclusivo e indicadores relacionados à diversidade.
+
+A análise utilizou dados sintéticos disponibilizados pela Wongola, referentes a 200 mil assinantes do aplicativo Black in Tech (BiT), combinando informações de usuários e infraestrutura de conectividade da região da Grande Florianópolis.
+
+## Objetivo da análise
+
+Investigar:
+
+* Onde estão concentrados os talentos disponíveis;
+* Qual o perfil socioeconômico e demográfico dos usuários;
+* Como fatores territoriais, como mobilidade e conectividade, podem influenciar oportunidades de trabalho remoto, híbrido e presencial;
+* Quais indicadores podem apoiar estratégias de diversidade e inclusão nas organizações.
+
+## Principais indicadores
+
+👥 **Perfil dos usuários**
+
+* Total analisado: 200 mil assinantes
+* Classe C: 42% (84.179 usuários)
+* Classe D: 22% (43.185 usuários)
+* Distribuição etária equilibrada entre diferentes faixas de idade
+
+📍 **Distribuição geográfica**
+
+* Florianópolis: 127.027 usuários
+* São José: 38.644 usuários
+* Palhoça: 20.251 usuários
+* Biguaçu: 6.446 usuários
+
+🚍 **Mobilidade urbana**
+
+* Baixa mobilidade: 69.725 usuários
+* Mobilidade moderada: 90.651 usuários
+* Mobilidade intensa: 39.624 usuários
+
+📡 **Infraestrutura e conectividade**
+
+* 132 antenas analisadas na região da Grande Florianópolis
+* 102 antenas localizadas em Florianópolis
+* Avaliação de volume total e consumo médio de dados por região
+
+## Insights
+
+A análise revelou que os talentos cadastrados estão concentrados principalmente em Florianópolis e municípios próximos, mas apresentam diferentes características territoriais que devem ser consideradas no planejamento de oportunidades profissionais.
+
+Os dados socioeconômicos indicam maior presença de usuários das classes C e D, reforçando o potencial da plataforma como ferramenta de ampliação do acesso a oportunidades.
+
+A análise de mobilidade mostrou que grande parte dos usuários possui deslocamento moderado ou baixo, indicando a importância de considerar modelos de trabalho remoto e híbrido.
+
+Além da localização dos talentos, a análise de conectividade demonstrou que regiões fora dos principais centros também apresentam usuários com alto nível de atividade digital, evidenciando o potencial de inclusão por meio de oportunidades profissionais mediadas por tecnologia.
+
+## Aplicação no produto
+
+Os insights gerados apoiaram a construção do App BiT, uma plataforma B2B de matching inclusivo que utiliza dados geográficos para:
+
+* Mapear regiões com concentração de talentos;
+* Apoiar recrutamento com maior alcance territorial;
+* Reduzir barreiras de acesso em processos seletivos;
+* Gerar indicadores para acompanhamento de metas de diversidade.
+
+## Ferramentas
+* PostgreSQL
+* Microsoft Power BI
+* Figma (prototipação da solução)
+
+## Dados
+
+Dataset Vísent CDRView / Wongola — dados sintéticos de assinantes, mobilidade, concentração geográfica e infraestrutura de conectividade.
+
+# 📁 App BiT — Data Analysis for Inclusive Matching and ESG Indicators
+
+🇺🇸 English
+
+This project was developed during a hackathon with the goal of creating an inclusive matching platform to connect companies with talents from underrepresented groups.
+
+My contribution focused on data analysis, exploring socioeconomic profiles, geographic distribution, mobility patterns, and connectivity indicators to generate strategic insights for inclusive recruitment and diversity-related metrics.
+
+The analysis used synthetic data provided by Wongola, containing information from 200,000 Black in Tech (BiT) app subscribers, combined with mobility and connectivity data from the Greater Florianópolis region.
+
+## Analysis Objective
+
+The analysis aimed to understand:
+
+* Where potential talents are geographically concentrated;
+* What are the socioeconomic and demographic characteristics of users;
+* How territorial factors, such as mobility and connectivity, may influence remote, hybrid, and on-site work opportunities;
+* Which indicators can support diversity and inclusion strategies within organizations.
+
+## Key Metrics
+
+👥 **User Profile**
+
+* Total users analyzed: 200,000 subscribers
+* Class C: 42% (84,179 users)
+* Class D: 22% (43,185 users)
+* Balanced age distribution across different age groups
+
+📍 **Geographic Distribution**
+
+* Florianópolis: 127,027 users
+* São José: 38,644 users
+* Palhoça: 20,251 users
+* Biguaçu: 6,446 users
+
+🚍 **Urban Mobility**
+
+* Low mobility: 69,725 users
+* Moderate mobility: 90,651 users
+* High mobility: 39,624 users
+
+📡 **Connectivity Infrastructure**
+
+* 132 antennas analyzed across the Greater Florianópolis region
+* 102 antennas located in Florianópolis
+* Assessment of total data traffic and average consumption per region
+
+## Insights
+
+The analysis showed that registered talents are mainly concentrated in Florianópolis and surrounding municipalities, but territorial characteristics vary significantly and should be considered when designing employment strategies.
+
+The socioeconomic profile indicates a strong presence of users from lower and middle-income groups, highlighting the platform’s potential to expand access to professional opportunities.
+
+Mobility analysis revealed that most users have low or moderate commuting patterns, reinforcing the relevance of remote and hybrid work models.
+
+Connectivity analysis also showed that regions outside major urban centers have highly active digital users, demonstrating the potential of technology-driven opportunities to support professional inclusion.
+
+## Product Application
+
+The generated insights supported the development of App BiT, a B2B inclusive matching platform that uses geographic data to:
+
+* Identify regions with higher talent concentration;
+* Support recruitment strategies based on territorial intelligence;
+* Reduce barriers in hiring processes;
+* Generate indicators to monitor diversity goals.
+
+## Tools
+
+* SQL
+* PostgreSQL
+* Microsoft Power BI
+* Excel
+* Figma (solution prototyping)
+
+## Data
+
+Vísent CDRView / Wongola dataset — synthetic data containing subscriber profiles, mobility patterns, geographic concentration, and connectivity infrastructure indicators.
+
 ## 🎓 Indicadores de Fluxo do Ensino Superior no Distrito Federal
 
 ### 🇧🇷 Português
