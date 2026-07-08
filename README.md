@@ -1,6 +1,6 @@
-# 📁 App BiT — Análise de Dados para Matching Inclusivo e Indicadores ESG
+## 📁 App BiT — Análise de Dados para Matching Inclusivo e Indicadores ESG
 
-🇧🇷 Português
+### 🇧🇷 Português
 
 Este projeto foi desenvolvido durante um hackathon com o objetivo de criar uma plataforma de matching inclusivo para conectar empresas a talentos de grupos sub-representados.
 
@@ -73,9 +73,9 @@ Os insights gerados apoiaram a construção do App BiT, uma plataforma B2B de ma
 
 Dataset Vísent CDRView / Wongola — dados sintéticos de assinantes, mobilidade, concentração geográfica e infraestrutura de conectividade.
 
-# 📁 App BiT — Data Analysis for Inclusive Matching and ESG Indicators
+## 📁 App BiT — Data Analysis for Inclusive Matching and ESG Indicators
 
-🇺🇸 English
+### 🇺🇸 English
 
 This project was developed during a hackathon with the goal of creating an inclusive matching platform to connect companies with talents from underrepresented groups.
 
