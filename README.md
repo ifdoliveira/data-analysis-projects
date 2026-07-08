@@ -17,7 +17,7 @@ Investigar:
 * Como fatores territoriais, como mobilidade e conectividade, podem influenciar oportunidades de trabalho remoto, híbrido e presencial;
 * Quais indicadores podem apoiar estratégias de diversidade e inclusão nas organizações.
 
-## Principais indicadores
+### Principais indicadores
 
 👥 **Perfil dos usuários**
 
@@ -45,7 +45,7 @@ Investigar:
 * 102 antenas localizadas em Florianópolis
 * Avaliação de volume total e consumo médio de dados por região
 
-## Insights
+### Insights
 
 A análise revelou que os talentos cadastrados estão concentrados principalmente em Florianópolis e municípios próximos, mas apresentam diferentes características territoriais que devem ser consideradas no planejamento de oportunidades profissionais.
 
@@ -64,14 +64,9 @@ Os insights gerados apoiaram a construção do App BiT, uma plataforma B2B de ma
 * Reduzir barreiras de acesso em processos seletivos;
 * Gerar indicadores para acompanhamento de metas de diversidade.
 
-## Ferramentas
-* PostgreSQL
-* Microsoft Power BI
-* Figma (prototipação da solução)
+**Ferramentas:** PostgreSQL, Microsoft Power BI e Figma (prototipação da solução)
 
-## Dados
-
-Dataset Vísent CDRView / Wongola — dados sintéticos de assinantes, mobilidade, concentração geográfica e infraestrutura de conectividade.
+**Dados:** Dataset Vísent CDRView / Wongola — dados sintéticos de assinantes, mobilidade, concentração geográfica e infraestrutura de conectividade.
 
 ## 📁 App BiT — Data Analysis for Inclusive Matching and ESG Indicators
 
@@ -139,17 +134,9 @@ The generated insights supported the development of App BiT, a B2B inclusive mat
 * Reduce barriers in hiring processes;
 * Generate indicators to monitor diversity goals.
 
-## Tools
+**Tools:** PostgreSQL, Microsoft Power BI and Figma (solution prototyping)
 
-* SQL
-* PostgreSQL
-* Microsoft Power BI
-* Excel
-* Figma (solution prototyping)
-
-## Data
-
-Vísent CDRView / Wongola dataset — synthetic data containing subscriber profiles, mobility patterns, geographic concentration, and connectivity infrastructure indicators.
+**Data:**: Vísent CDRView / Wongola dataset — synthetic data containing subscriber profiles, mobility patterns, geographic concentration, and connectivity infrastructure indicators.
 
 ## 🎓 Indicadores de Fluxo do Ensino Superior no Distrito Federal
 
@@ -171,7 +158,7 @@ Para este projeto, explorei dados do Censo da Educação Superior, realizado pel
 Os dados revelam um cenário de deterioração progressiva dos indicadores acadêmicos no DF ao longo do período analisado. Homens apresentam maiores taxas de evasão e retenção em comparação às mulheres, padrão historicamente associado ao papel do homem como provedor econômico. Entre os grupos étnico-raciais, os PPI partem de maior desvantagem em evasão e retenção, mas demonstram convergência com os não PPI ao longo do tempo — e até superação na permanência entre 2023 e 2024, com 77,50% contra 76,40%. Esse movimento sugere que políticas de acesso e permanência voltadas a esse grupo produziram efeitos reais, ainda que frágeis diante do cenário de instabilidade política e econômica do período.
 A estabilidade aparente dos indicadores esconde uma tendência preocupante: o Ensino Superior no DF tornou-se progressivamente mais difícil de concluir. Os retrocessos em políticas públicas, combinados aos impactos da pandemia e da queda do poder de compra, afetaram de forma desigual estudantes de diferentes perfis — com os mais velhos, os homens e, em menor medida, os PPI concentrando os maiores índices de evasão e retenção. Os dados reforçam que acesso à universidade, sem condições estruturais de permanência, não é suficiente para garantir a democratização real do Ensino Superior.
 
-**Ferramenta:** Excel e Microsoft Power BI  
+**Ferramentas:** Excel e Microsoft Power BI  
 **Dados:** https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-fluxo-da-educacao-superior
 
 ## 🎓 Higher Education Flow Indicators in the Federal District of Brazil
@@ -194,7 +181,7 @@ As a public administrator, I couldn't leave relevant topics from the Brazilian r
 The data reveal a pattern of progressive deterioration in academic outcomes across the analyzed period. Male students show higher dropout and retention rates than female students, a pattern historically tied to gender roles and economic pressure. Among ethnic-racial groups, PPI students start from a greater disadvantage in dropout and retention rates, but show convergence with non-PPI students over time — and even surpass them in persistence between 2023 and 2024, with 77.50% against 76.40%. This shift suggests that targeted access and retention policies had measurable effects, even if fragile in the face of broader political and economic instability.
 The apparent stability of the indicators conceals a worrying trend: completing higher education in the Federal District has become progressively harder. Setbacks in public policy, compounded by the COVID-19 pandemic and declining purchasing power, have unevenly affected students across different profiles — with older students, men, and, to a lesser extent, PPI students bearing the highest dropout and retention rates. The data reinforce that access to higher education, without the structural conditions for persistence, is not enough to ensure its true democratization.
 
-**Tool:** Excel and Microsoft Power BI  
+**Tools:** Excel and Microsoft Power BI  
 **Data:** https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-fluxo-da-educacao-superior
 
 ## 🤖 AI Dependency, Career Anxiety and Student Burnout
@@ -260,7 +247,7 @@ Todo o processo foi conduzido de forma autoral, sem uso de videoaulas ou modelos
 #### Insights
 Os dados revelam que o uso intensivo de redes sociais está associado a padrões consistentes de impacto na saúde mental. Heavy users apresentaram maior tendência à comparação social, com reflexos diretos na autoestima e na percepção de produtividade. A análise por faixa etária indica que jovens adultos concentram os maiores índices de uso problemático, enquanto a segmentação por plataforma aponta para diferenças relevantes no tipo de impacto relatado. Os indicadores de qualidade do sono e dificuldade de concentração aparecem de forma recorrente entre os respondentes com maior tempo de uso diário, sugerindo uma relação entre engajamento excessivo e comprometimento do bem-estar emocional.
 
-**Ferramenta:** Excel e Microsoft Power BI  
+**Ferramentas:** Excel e Microsoft Power BI  
 **Dados:** [Kaggle - Social Media and Mental Health](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data)
 
 
@@ -282,7 +269,7 @@ The entire process was conducted independently, without tutorials or ready-made 
 #### Insights
 The data reveals that intensive social media use is consistently associated with mental health impacts. Heavy users showed a higher tendency toward social comparison, with direct effects on self-esteem and perceived productivity. Age group analysis indicates that young adults concentrate the highest rates of problematic usage, while platform segmentation points to relevant differences in the type of reported impact. Sleep quality issues and difficulty concentrating appear recurrently among respondents with higher daily usage time, suggesting a relationship between excessive engagement and emotional well-being impairment.
 
-**Tool:** Excel and Microsoft Power BI  
+**Tools:** Excel and Microsoft Power BI  
 **Data:** [Kaggle - Social Media and Mental Health](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data)
 
 
